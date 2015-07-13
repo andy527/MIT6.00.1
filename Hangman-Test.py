@@ -33,7 +33,7 @@ def chooseWord(wordlist):
 
     Returns a word from wordlist at random
     """
-    return random.choice(wordlist)
+    return random.choice(wordlis)
 
 
 wordlist = loadWords()
